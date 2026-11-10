@@ -1,0 +1,20 @@
+# Manipulación de datos y cálculo numérico
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.10.0
+# Visualización
+matplotlib>=3.7.0
+seaborn>=0.12.2
+# Machine Learning tradicional (Parte 1 y Parte 4)
+scikit-learn>=1.3.0
+# Procesamiento de Lenguaje Natural: POS y NER (Parte 2 y Parte 4)
+spacy>=3.7.0
+# Deep Learning y Modelos Híbridos / Transformers (Parte 2, Parte 3 y Parte 4)
+torch>=2.1.0
+transformers>=4.35.0
+accelerate>=0.24.0
+# Entorno Jupyter Notebook
+jupyter>=1.0.0
+ipykernel>=6.25.0
+# Opcional: Recolección de comentarios de YouTube
+youtube-comment-downloader>=0.1.70
